@@ -1,0 +1,7 @@
+# Ignore Conda environment directory
+env/
+
+# Ignore environment.yaml file
+environment.yaml
+artifacts
+logs_dir
